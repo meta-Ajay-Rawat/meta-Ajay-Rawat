@@ -2,7 +2,7 @@
 ## Hi, there 👋
 I'm a dedicated and disciplined web developer with extensive experience and a deep passion for programming.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=meta-Ajay-Rawat&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=meta-Ajay-Rawat&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meta-Ajay-Rawat&count_private=true&layout=compact&theme=vue-dark)
 
 ## ⚡ Technologies
